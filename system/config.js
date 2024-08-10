@@ -6,9 +6,9 @@ global.fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetc
 // Timezone (Default : Asia/Jakarta)
 global.timezone = 'Asia/Jakarta'
 // Bot name
-global.botname = `© nexon-bot`
+global.botname = `Droidx - Assistant (beta)`
 // Footer text
-global.footer = 'ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ɴᴇxᴏɴ ッ'
+global.footer = 'Simple WhatsApp Bot ッ'
 // Function Scraper
 global.Scrape = Scraper
 // Function
